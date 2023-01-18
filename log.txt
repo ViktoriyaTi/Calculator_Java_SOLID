@@ -1,0 +1,12 @@
+янв. 18, 2023 12:50:08 PM Presenter buttonClick
+INFO: Выбрана операция деления
+янв. 18, 2023 12:50:53 PM Presenter buttonClick
+INFO: Выбрана операция суммирования
+янв. 18, 2023 12:54:47 PM Presenter buttonClick
+INFO: Выбрана операция деления
+янв. 18, 2023 12:56:25 PM Presenter buttonClick
+INFO: Выбрана операция вычитания
+янв. 18, 2023 12:58:33 PM Presenter buttonClick
+INFO: Выбрана операция суммирования
+янв. 18, 2023 12:58:33 PM Presenter buttonClick
+INFO: Результат суммирования = 1/1

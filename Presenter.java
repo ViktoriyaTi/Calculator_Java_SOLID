@@ -7,7 +7,7 @@ public class Presenter {
     Calculations calc = new Calculations();
     Sum sum = new Sum();
     Sub sub = new Sub();
-    Multy multy = new Multy();
+    Mult multy = new Mult();
     Div div = new Div();
     Scanner in = new Scanner(System.in);
     Logger logger;

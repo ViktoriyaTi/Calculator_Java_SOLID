@@ -1,4 +1,4 @@
-public class Multy extends ArithmeticOperation {
+public class Mult extends ArithmeticOperation {
     Calculations calc = new Calculations();
 
     public Rational multiply(Rational one, Rational two) {

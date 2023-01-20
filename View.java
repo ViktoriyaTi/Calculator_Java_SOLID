@@ -1,9 +1,8 @@
+
 import java.util.Scanner;
 
 public class View {
     Scanner input = new Scanner(System.in);
-    long denoOne;
-    long denoTwo;
     String s1 = "Введите числитель и знаменатель первого числа";
     String s2 = "Введите числитель и знаменатель второго числа";
 
